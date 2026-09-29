@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there 👋, saya Rex
 
-<!--
-**rhmnaan/rhmnaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa **Teknik Informatika** di **Universitas Trunojoyo Madura** yang suka membangun aplikasi web dari sisi backend sampai tampilan.
 
-Here are some ideas to get you started:
+### 🚀 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sedang mengerjakan aplikasi web full-stack dan proyek scraping data
+- 🎓 Mahasiswa Teknik Informatika, Universitas Trunojoyo Madura
+- 💼 Peserta magang MBKM di **PT Elecomp Indonesia Group** (Februari – Juni 2026)
+- 🛠️ Fokus magang: pengembangan aplikasi web, pembuatan LMS, debugging sistem, dan dokumentasi teknis
+- 🌱 Sedang belajar: ekstraksi informasi, web scraping, dan integrasi AI ke aplikasi web
+- 👯 Terbuka untuk kolaborasi di proyek web dan open source
+- 💬 Tanya saya soal: CodeIgniter 4, PHP, dan pengembangan aplikasi web
+
+### 🧰 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 Proyek Pilihan
+
+- **LMS Elecomp**: learning management system full-stack berbasis CodeIgniter 4 dengan dashboard berbasis peran (admin, pengajar, peserta)
+- **Info Kost UTM**: website informasi dan manajemen kost di sekitar kampus UTM
+- **AI Document Analyzer**: analisis dokumen ekspor dengan AI dan respons streaming (SSE)
+- **Scraping Putusan**: tugas ekstraksi informasi dari direktori putusan Mahkamah Agung
+
+### 📊 GitHub Stats
+
+![Statistik GitHub Rex](https://github-readme-stats.vercel.app/api?username=rhmnaan&show_icons=true&theme=default&hide_border=true)
+![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=rhmnaan&layout=compact&hide_border=true)
+
+### 📫 Hubungi Saya
+
+- GitHub: [@rhmnaan](https://github.com/rhmnaan)
+- Email: _tambahkan email kamu di sini_
+- LinkedIn: _tambahkan tautan LinkedIn kamu di sini_
+
+---
+
+⭐ Kalau ada proyek saya yang berguna, jangan ragu kasih bintang ya!
