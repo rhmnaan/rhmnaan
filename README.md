@@ -4,13 +4,8 @@ Mahasiswa **Teknik Informatika** di **Universitas Trunojoyo Madura** yang suka m
 
 ### 🚀 Tentang Saya
 
-- 🔭 Sedang mengerjakan aplikasi web full-stack dan proyek scraping data
 - 🎓 Mahasiswa Teknik Informatika, Universitas Trunojoyo Madura
-- 💼 Peserta magang MBKM di **PT Elecomp Indonesia Group** (Februari – Juni 2026)
-- 🛠️ Fokus magang: pengembangan aplikasi web, pembuatan LMS, debugging sistem, dan dokumentasi teknis
-- 🌱 Sedang belajar: ekstraksi informasi, web scraping, dan integrasi AI ke aplikasi web
 - 👯 Terbuka untuk kolaborasi di proyek web dan open source
-- 💬 Tanya saya soal: CodeIgniter 4, PHP, dan pengembangan aplikasi web
 
 ### 🧰 Tech Stack
 
@@ -22,13 +17,6 @@ Mahasiswa **Teknik Informatika** di **Universitas Trunojoyo Madura** yang suka m
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📂 Proyek Pilihan
-
-- **LMS Elecomp**: learning management system full-stack berbasis CodeIgniter 4 dengan dashboard berbasis peran (admin, pengajar, peserta)
-- **Info Kost UTM**: website informasi dan manajemen kost di sekitar kampus UTM
-- **AI Document Analyzer**: analisis dokumen ekspor dengan AI dan respons streaming (SSE)
-- **Scraping Putusan**: tugas ekstraksi informasi dari direktori putusan Mahkamah Agung
 
 ### 📊 GitHub Stats
 
