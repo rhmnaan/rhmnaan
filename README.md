@@ -26,8 +26,8 @@ Mahasiswa **Teknik Informatika** di **Universitas Trunojoyo Madura** yang suka m
 ### 📫 Hubungi Saya
 
 - GitHub: [@rhmnaan](https://github.com/rhmnaan)
-- Email: _tambahkan email kamu di sini_
-- LinkedIn: _tambahkan tautan LinkedIn kamu di sini_
+- Email: -
+- LinkedIn: -
 
 ---
 
